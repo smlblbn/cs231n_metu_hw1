@@ -16,5 +16,5 @@ dependencies:
 - six
 - tornado
 - wsgiref
-#- gnureadline
-#- backports.ssl-match-hostname
+- readline
+- jupyter
